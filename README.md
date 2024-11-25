@@ -1,6 +1,13 @@
 # ML_workshop_saqi_bourdim
 Jupyter notebooks and files for conceptual introduction to Machine Learning for the ICR, November 2024. This whole course is based on the material of [this Machine Learning workshop](https://carpentries-incubator.github.io/machine-learning-novice-python/index.html) by Tom Pollard and [that one](https://carpentries-incubator.github.io/machine-learning-novice-sklearn/) by Colin Sauze. 
 
+# Download the material on the Github repo
+
+It's easy just click there:
+
+<img width="1472" alt="Screenshot 2024-11-25 at 13 33 27" src="https://github.com/user-attachments/assets/5f90e591-d56f-435e-9dad-f8a8c22bfd0d">
+
+
 # Installing Anaconda, Launching JupyterLab, and Running a Notebook
 
 ## Step 1: Install Anaconda Navigator
