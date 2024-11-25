@@ -13,7 +13,7 @@ It's easy just click there:
 ## Step 1: Install Anaconda Navigator
 1. **Download Anaconda**:
    - Go to the [Anaconda website](https://www.anaconda.com/).
-   - Download the installer for your operating system (Windows, macOS, or Linux)
+   - Download the installer for your operating system (Windows, macOS, or Linux), you don't actually have to provide your e-mail adress, there's a tiny "skip registration" that you can click on.
   
 <img width="1456" alt="Screenshot 2024-11-25 at 11 40 39" src="https://github.com/user-attachments/assets/a1b8478c-ae69-4163-9be4-0b1f22f63ba0">
 
