@@ -1,7 +1,7 @@
 # ML_workshop_saqi_bourdim
 Jupyter notebooks and files for conceptual introduction to Machine Learning for the ICR, November 2024. This whole course is based on the material of [this Machine Learning workshop](https://carpentries-incubator.github.io/machine-learning-novice-python/index.html) by Tom Pollard and [that one](https://carpentries-incubator.github.io/machine-learning-novice-sklearn/) by Colin Sauze. 
 
-# Download the material on the Github repo
+# Download the material on the Github repository
 
 It's easy just click there:
 
